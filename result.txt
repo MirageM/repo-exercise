@@ -1,5 +1,5 @@
 Using A Repository
 git status -> check the status
 git add result.txt -> add one file
-git commit -m "Successful Exercise!"
+git commit -m "Successful Exercise"
 git push  
